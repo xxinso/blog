@@ -75,7 +75,7 @@ pagination_dir: page
 theme: yilia
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: github
   repository: https://github.com/liuxianan/xxinso.github.io.git/blog
